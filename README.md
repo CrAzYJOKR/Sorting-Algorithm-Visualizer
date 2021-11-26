@@ -1,3 +1,8 @@
 # Sorting Visualizer
 
-Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+This is a sorting algorithm visualizer that i made on my own after seeing a similar project from clementmihailescu github's profile.
+You can see her deployed project from here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+
+This is a recreated attempt from my side and was largely influenced by the above person's project.
+Screenshot:(![image](https://user-images.githubusercontent.com/57794377/143521302-5749503b-c9e5-4ffa-bbf2-31c80b4135c1.png)
+)
