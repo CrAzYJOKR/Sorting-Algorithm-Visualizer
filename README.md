@@ -1,6 +1,7 @@
 # Sorting Visualizer
 
 This is a sorting algorithm visualizer that i made on my own after seeing a similar project from clementmihailescu github's profile.
+
 You can see her deployed project from here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
 
 This is a recreated attempt from my side and was largely influenced by the above person's project.
